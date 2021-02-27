@@ -43,8 +43,6 @@ botaoadd.addEventListener('click', function () {
     tabelanomes.appendChild(tr)
     inputHora.value = ''
 
-    salvar();
-
 
 })
 
